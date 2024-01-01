@@ -4,5 +4,5 @@
 
 ### Crédito a: _Parvat Computer Tecnology_
 
-Este Projeto será para aprendizado da biblioteca TKINTER e também trabalhar com multi-janelas.
+Este projeto será para aprendizado da biblioteca TKINTER e também trabalhar com multi-janelas.
 
